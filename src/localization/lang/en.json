@@ -1,0 +1,465 @@
+{
+  "content": {
+    "header": {
+      "navigation": [
+        {
+          "name": "About Us",
+          "link": "about"
+        },
+        {
+          "name": "pure organic",
+          "link": "pure-organic"
+        },
+        {
+          "name": "what makes us different?",
+          "link": "what-makes-us-different?"
+        },
+        {
+          "name": "products",
+          "link": "products"
+        },
+        {
+          "name": "our story",
+          "link": "our-story"
+        },
+        {
+          "name": "testimonials",
+          "link": "testimonials"
+        }
+      ],
+      "button": "Contact Us"
+    },
+    "seo": {
+      "name": "Vikas",
+      "url": "https://www.Vikas.com",
+      "description": "Vikas - Vika’s Certified Organic Products - your safe haven in an ocean of chemicals where science meets spirituality.",
+      "language": "en",
+      "pages": [
+        {
+          "title": "Home",
+          "url": "/",
+          "metaDescription": "Welcome to Vikas, Vika’s Certified Organic Products - your safe haven in an ocean of chemicals where science meets spirituality.",
+          "keywords": [
+            "Vikas",
+            "PURE",
+            "ORGANIC",
+            "nourish your skin",
+            "USDA Certified Organic"
+          ],
+          "content": [
+            {
+              "section": "Introduction",
+              "content": "Vikas leverages quantum computing to redefine data search and retrieval across industries. Learn more about our cutting-edge technology."
+            },
+            {
+              "section": "Features",
+              "content": "USDA Certified Organic."
+            }
+          ]
+        },
+        {
+          "title": "About Us",
+          "url": "/about",
+          "metaDescription": "Learn more about Vikas and our mission to revolutionize data search with quantum computing technology.",
+          "keywords": [
+            "About Vikas",
+            "Quantum Technology",
+            "Innovative Search Solutions"
+          ],
+          "content": [
+            {
+              "section": "Our Mission",
+              "content": "At Vikas, we aim to push the boundaries of what is possible with quantum computing and data management."
+            },
+            {
+              "section": "Our Team",
+              "content": "Meet the brilliant minds behind Vikas, dedicated to transforming the landscape of search technology."
+            }
+          ]
+        },
+        {
+          "title": "Technology",
+          "url": "/technology",
+          "metaDescription": "Dive deep into the cutting-edge quantum computing technologies that power Vikas. Understand the science behind Quantum Analytic Tomography and its applications.",
+          "keywords": [
+            "Vikas Technology",
+            "Quantum Computing",
+            "Quantum Algorithms",
+            "Quantum Analytic Tomography",
+            "Advanced Data Analysis"
+          ],
+          "content": [
+            {
+              "section": "Quantum Computing Basics",
+              "content": "Explore the fundamentals of quantum computing including qubits, superposition, and entanglement, and how these principles form the backbone of Vikas."
+            },
+            {
+              "section": "Vikas's Quantum Algorithms",
+              "content": "Learn about the specific quantum algorithms used by Vikas, such as Grover's algorithm for database searching and Shor's algorithm for data security."
+            },
+            {
+              "section": "Quantum Analytic Tomography",
+              "content": "Understand how Vikas utilizes Quantum Analytic Tomography to map and analyze data relationships dynamically across various industries."
+            },
+            {
+              "section": "Integration with Vogon Cloud",
+              "content": "Discover how Vikas integrates seamlessly with the Vogon Cloud, leveraging distributed quantum ledger technology for enhanced data security and processing speed."
+            },
+            {
+              "section": "Future Developments",
+              "content": "Get a glimpse into the future of Vikas, including upcoming enhancements and potential new applications in different sectors."
+            }
+          ]
+        },
+        {
+          "title": "Applications",
+          "url": "/applications",
+          "metaDescription": "Explore how Vikas revolutionizes data search and analysis across all 11 GICS sectors, enhancing operations and insights.",
+          "keywords": [
+            "Vikas Applications",
+            "GICS Sectors",
+            "Industry Solutions",
+            "Quantum Search Use Cases"
+          ],
+          "content": [
+            {
+              "sector": "Information Technology",
+              "group": "Technology Hardware & Equipment",
+              "industry": "Technology Hardware, Storage & Peripherals",
+              "subIndustry": "Data Storage Devices",
+              "benefits": "Vikas enhances data retrieval speeds and accuracy, significantly improving data analysis and decision-making processes in data storage solutions."
+            },
+            {
+              "sector": "Financials",
+              "group": "Banks",
+              "industry": "Diversified Banks",
+              "subIndustry": "Commercial Banks",
+              "benefits": "Vikas provides advanced pattern recognition for fraud detection and complex risk assessment, crucial for commercial banking operations."
+            },
+            {
+              "sector": "Health Care",
+              "group": "Pharmaceuticals, Biotechnology & Life Sciences",
+              "industry": "Biotechnology",
+              "subIndustry": "Genetic & Molecular Diagnostics",
+              "benefits": "In genetic diagnostics, Vikas accelerates the analysis of large genomic datasets, enhancing personalized medicine approaches."
+            },
+            {
+              "sector": "Consumer Discretionary",
+              "group": "Automobiles & Components",
+              "industry": "Automobiles",
+              "subIndustry": "Automobile Manufacturers",
+              "benefits": "Vikas optimizes supply chain logistics and real-time quality control, driving efficiency in automobile manufacturing."
+            },
+            {
+              "sector": "Consumer Staples",
+              "group": "Food & Staples Retailing",
+              "industry": "Food Retail",
+              "subIndustry": "Supermarkets",
+              "benefits": "Vikas aids in managing inventory and predicting consumer buying patterns, crucial for supermarkets to optimize stock and reduce waste."
+            },
+            {
+              "sector": "Energy",
+              "group": "Energy",
+              "industry": "Oil, Gas & Consumable Fuels",
+              "subIndustry": "Integrated Oil & Gas",
+              "benefits": "Vikas enhances exploration data analysis and operational efficiency in oil and gas production, leading to cost savings and reduced environmental impact."
+            },
+            {
+              "sector": "Industrials",
+              "group": "Capital Goods",
+              "industry": "Aerospace & Defense",
+              "subIndustry": "Aerospace & Defense",
+              "benefits": "Vikas facilitates advanced simulations and real-time monitoring of aerospace systems, improving safety and performance metrics."
+            },
+            {
+              "sector": "Utilities",
+              "group": "Utilities",
+              "industry": "Electric Utilities",
+              "subIndustry": "Renewable Electricity",
+              "benefits": "Vikas enables more efficient management of renewable energy sources, optimizing distribution and enhancing grid stability."
+            },
+            {
+              "sector": "Real Estate",
+              "group": "Real Estate",
+              "industry": "Equity Real Estate Investment Trusts (REITs)",
+              "subIndustry": "Retail REITs",
+              "benefits": "Vikas provides insights into market trends and tenant behaviors, crucial for retail REITs to maximize occupancy and rental income."
+            },
+            {
+              "sector": "Materials",
+              "group": "Materials",
+              "industry": "Chemicals",
+              "subIndustry": "Specialty Chemicals",
+              "benefits": "Vikas improves formulation and testing processes in specialty chemicals, enhancing product development and innovation."
+            },
+            {
+              "sector": "Communication Services",
+              "group": "Telecommunication Services",
+              "industry": "Diversified Telecommunication Services",
+              "subIndustry": "Integrated Telecommunication Services",
+              "benefits": "Vikas optimizes network operations and customer service through advanced data analytics, crucial for integrated telecom services."
+            }
+          ]
+        },
+        {
+          "title": "Contact Us",
+          "url": "/contact",
+          "metaDescription": "Get in touch with the Vikas team for more information or to request a demo of our quantum search technology.",
+          "keywords": [
+            "Contact Vikas",
+            "Request Demo",
+            "Quantum Search Inquiry"
+          ],
+          "content": [
+            {
+              "section": "Contact Information",
+              "content": "Reach out to us via email, phone, or visit our office for any inquiries or to see Vikas in action."
+            },
+            {
+              "section": "Demo Request",
+              "content": "Fill out our form to request a live demo and see how Vikas can transform your data search and analysis."
+            }
+          ]
+        }
+      ],
+      "navigation": [
+        {
+          "name": "Home",
+          "link": "/"
+        },
+        {
+          "name": "About Us",
+          "link": "/about"
+        },
+        {
+          "name": "Technology",
+          "link": "/technology"
+        },
+        {
+          "name": "Applications",
+          "link": "/applications"
+        },
+        {
+          "name": "Contact Us",
+          "link": "/contact"
+        }
+      ]
+    },
+    "footer": {
+      "crossSiteNavigation": [
+        {
+          "name": "Contact Us",
+          "link": "contact"
+        },
+        {
+          "name": "Privacy Policy"
+        },
+        {
+          "name": "Terms of Service"
+        },
+        {
+          "name": "Data Deletion"
+        }
+      ]
+    },
+    "pages": {
+      "home": {
+        "title": "Home",
+        "prompt": "What if you could discover insights beyond your current search capabilities?",
+        "metaDescription": "Welcome to Vikas, the revolutionary quantum search algorithm designed for the Vogon Cloud. Discover how we are transforming data search and analysis.",
+        "keywords": [
+          "Vikas",
+          "Quantum Search Engine",
+          "Vogon Cloud",
+          "Quantum Computing",
+          "Data Analysis"
+        ],
+        "sections": [
+          {
+            "section": "Hero",
+            "header": "Don't search. Discover!",
+            "subHeader": "Unveil hidden insights with the power of Vikas.",
+            "content": "Dive into the depths of data with Vikas, where ask the right questions for you, revealing insights that traditional search technologies simply cannot see.",
+            "buttonText": "Explore Vikas",
+            "buttonLink": "Can you explain to me in simple terms what Vikas does in a way that an 18-year-old would understand?"
+          },
+          {
+            "header": "PURE & ORGANIC",
+            "subHeader": "Vika's Facial Wash & Anti-Wrinkle Serum 2-Step Beauty Bundle",
+            "title": "Rejuvenate and nourish your skin",
+            "subTitle": "Vika’s Certified Organic Products - your safe haven in an ocean of chemicals where science meets spirituality."
+          },
+          {
+            "header": "What Makes Us Different?",
+            "expand": true,
+            "expandImage": "placeholder_image_url",
+            "categories": [
+              {
+                "title": "USDA Certified Organic",
+                "subTitle": "We use high-quality plant oils from the leading reputable suppliers all over the world."
+              }
+            ]
+          },
+          {
+            "header": "Products",
+            "expand": true,
+            "expandImage": "placeholder_image_url",
+            "categories": [
+              {
+                "title": "Anti-Wrinkle Serum",
+                "subTitle": "An exquisite union of luxurious organic essential oils to soften lines and restore optimal hydration."
+              }
+            ]
+          },
+          {
+            "header": "Our Story",
+            "expand": true,
+            "expandImage": "placeholder_image_url",
+            "subHeader": "Viktoriya Hopperstad - founder of Vika's Essentials",
+            "title": "The Journey",
+            "subTitle": "From struggling with sensitive skin to discovering the healing power of plant oils, Vika’s Essentials was born from a passion for natural healing and a healthy lifestyle."
+          },
+          {
+            "header": "Testimonials",
+            "expand": true,
+            "expandImage": "placeholder_image_url",
+            "categories": [
+              {
+                "title": "Beatrice B.",
+                "subTitle": "My acne has improved significantly after using Vika's products."
+              }
+            ]
+          },
+          {
+            "header1": "New Arrivals",
+            "header2": "Best Sellers",
+            "products": [
+              {
+                "productId": "product-facial-serum-seeds-of-life",
+                "title": "Facial Serum Seeds Of Life",
+                "image": "/assets/product/seeds-life.png",
+                "reviews": 3,
+                "price": "$33.00",
+                "btn": "add to cart"
+              },
+              {
+                "productId": "product-facial-toner-propolis-myst",
+                "title": "Facial Toner Propolis Myst",
+                "image": "/assets/product/propolis.png",
+                "reviews": 23,
+                "price": "$18.00",
+                "btn": "add to cart"
+              },
+              {
+                "productId": "product-body-oil",
+                "title": "Body Oil",
+                "image": "/assets/product/body-oil.png",
+                "reviews": 12,
+                "price": "$25.00",
+                "btn": "add to cart"
+              },
+              {
+                "productId": "product-1st-aid-tnt",
+                "title": "1st AID TNT",
+                "image": "/assets/product/first_aid_tnt.png",
+                "reviews": 7,
+                "price": "$30.80",
+                "btn": "add to cart"
+              }
+            ]
+          }
+        ]
+      },
+      "about": {
+        "title": "About Vikas",
+        "prompt": "Why is Vikas the future of data analysis?",
+        "metaDescription": "Learn about Vikas, the revolutionary quantum search algorithm designed for the Vogon Cloud. Understand our technology, features, and industry impact.",
+        "keywords": [
+          "Vikas",
+          "Quantum Search Engine",
+          "Vogon Cloud",
+          "Quantum Computing",
+          "Data Analysis",
+          "About"
+        ],
+        "content": [
+          {
+            "section": "Hero",
+            "header": "About Vikas",
+            "subHeader": "The Quantum Revolution in Data Analysis",
+            "content": "Vikas is not just a search engine; it's a new way of interacting with data. Powered by Quantum Analytic Tomography, Vikas asks the right questions to uncover the insights that traditional technologies miss.",
+            "buttonText": "Explore the Technology",
+            "buttonLink": "What is Quantum Analytic Tomography?"
+          },
+          {
+            "section": "Our Mission",
+            "header": "Our Mission",
+            "content": "At Vikas, our mission is to harness the power of quantum computing to transform data analysis across industries. We aim to provide actionable insights that are not only faster but also more accurate and relevant to your specific needs.",
+            "links": [
+              {
+                "text": "Learn more about our mission",
+                "prompt": "How does Vikas empower businesses?"
+              }
+            ]
+          },
+          {
+            "section": "Technology Overview",
+            "header": "How Vikas Works",
+            "content": "Vikas combines quantum computing with advanced data analysis techniques to proactively ask and answer the crucial questions. Our platform uses Quantum Analytic Tomography to analyze data patterns and relationships at unprecedented speeds.",
+            "links": [
+              {
+                "text": "Discover our technology",
+                "prompt": "What makes Vikas's technology unique?"
+              }
+            ]
+          },
+          {
+            "section": "Features",
+            "header": "Key Features of Vikas",
+            "content": "Explore the features that make Vikas a leader in quantum data analysis.",
+            "subSections": [
+              {
+                "subHeader": "Proactive Questioning",
+                "content": "By anticipating information needs, Vikas proactively formulates and answers relevant questions, ensuring you always stay ahead.",
+                "link": {
+                  "text": "Learn about proactive questioning",
+                  "prompt": "How does proactive questioning change data analysis?"
+                }
+              },
+              {
+                "subHeader": "Quantum Speed",
+                "content": "Our quantum algorithms process vast amounts of data in parallel, significantly reducing the time needed to uncover insights.",
+                "link": {
+                  "text": "Explore quantum speed",
+                  "prompt": "What impact does quantum speed have on analysis?"
+                }
+              },
+              {
+                "subHeader": "Semantic Depth",
+                "content": "Vikas understands the deeper meaning and context of data, providing richer and more relevant search results.",
+                "link": {
+                  "text": "Understand semantic depth",
+                  "prompt": "Why is semantic depth important?"
+                }
+              }
+            ]
+          },
+          {
+            "section": "Industry Impact",
+            "header": "Transforming Industries",
+            "content": "From healthcare to finance, Vikas is revolutionizing how industries handle data. Discover how our technology is making a difference.",
+            "buttonText": "View Industry Case Studies",
+            "buttonLink": "Which industries benefit most from Vikas?"
+          },
+          {
+            "section": "Call to Action",
+            "header": "Join the Quantum Revolution",
+            "content": "Are you ready to leverage the power of quantum computing for your data needs? Contact us to see how Vikas can transform your business.",
+            "buttonText": "Contact Us",
+            "buttonLink": "Ready to start with Vikas?"
+          }
+        ]
+      }
+    }
+  }
+}
